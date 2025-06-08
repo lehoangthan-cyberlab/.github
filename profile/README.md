@@ -18,11 +18,13 @@ Tổ chức này được xây dựng với mục tiêu:
 ### 🌐 Dự án tiêu biểu
 
 | Danh mục         | Dự án                                | Mô tả ngắn                       |
-|------------------|----------------------------------------|----------------------------------|
-<!--| 🔧 Công cụ        | `pentest-scripts`                     | Tập hợp script hỗ trợ pentest    |
-| 📜 Write-up CTF   | `ctf-writeups`                        | Tổng hợp giải bài CTF            |-->
-| 🔒 Mật mã học     | `crypto-app`                          | Ứng dụng liên quan tới crypto    |
-<!--| 🐛 Malware        | `malware-analysis`                    | Phân tích phần mềm độc hại       |-->
+|------------------|--------------------------------------|----------------------------------|
+| 🔒 Mật mã học     | `CryptoAppProject`                  | Ứng dụng liên quan tới mật mã học|
+<!--
+| 🔧 Công cụ        | `pentest-scripts`                     | Tập hợp script hỗ trợ pentest    |
+| 📜 Write-up CTF   | `ctf-writeups`                        | Tổng hợp giải bài CTF            |
+| 🐛 Malware        | `malware-analysis`                    | Phân tích phần mềm độc hại       |
+-->
 
 ---
 
