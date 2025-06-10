@@ -1,4 +1,3 @@
-![](https://github-contributor-stats.vercel.app/api?username=lehoangthan-cyberlab&limit=5&theme=default&combine_all_yearly_contributions=true)
 ## 👋 Xin chào!
 
 Chào mừng bạn đến với **LeHoangThan Cybersecurity Lab** — nơi tôi chia sẻ các dự án cá nhân, nghiên cứu, công cụ và đóng góp trong lĩnh vực **an ninh mạng**.
