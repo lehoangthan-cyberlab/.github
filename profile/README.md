@@ -2,7 +2,6 @@
 
 Chào mừng bạn đến với **LeHoangThan Cybersecurity Lab** — nơi tôi chia sẻ các dự án cá nhân, nghiên cứu, công cụ và đóng góp trong lĩnh vực **an ninh mạng**.
 
----
 
 ### 🙋‍♂️ Giới thiệu ngắn gọn
 
@@ -13,7 +12,6 @@ Tổ chức này được xây dựng với mục tiêu:
 - Nghiên cứu các kỹ thuật tấn công – phòng thủ hiện đại
 - Phân tích malware, kỹ thuật đảo ngược, mật mã học
 
----
 
 ### 🌐 Dự án tiêu biểu
 
@@ -26,7 +24,6 @@ Tổ chức này được xây dựng với mục tiêu:
 | 🐛 Malware        | `malware-analysis`                    | Phân tích phần mềm độc hại       |
 -->
 
----
 
 ### 👨‍💻 Cộng đồng có thể đóng góp thế nào?
 
@@ -35,7 +32,6 @@ Bạn có thể:
 - Gửi pull request để đóng góp mã nguồn
 - Đề xuất chủ đề mới về an ninh mạng
 
----
 
 ### 📚 Tài nguyên hữu ích
 
@@ -43,13 +39,11 @@ Bạn có thể:
 - 🔐 [OWASP Top 10](https://owasp.org/www-project-top-ten/)
 - 🧰 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
----
 
 ### 🎯 Mục tiêu
 
 > "Chia sẻ để học, phát triển để vững mạnh" – Le Hoang Than
 
----
 
 Cảm ơn bạn đã ghé thăm!  
 ⭐ Đừng quên *follow* hoặc *star* repo nếu bạn thấy hữu ích!
